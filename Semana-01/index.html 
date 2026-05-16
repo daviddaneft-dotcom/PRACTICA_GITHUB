@@ -1,0 +1,11 @@
+## Seudocódigo 
+Algoritmo Ejercicio4
+Definir Num como entero;
+escribir "Ingrese el valor del Num";
+Leer Num 
+si num>10 entonces
+escribir "El num es mayor que 10";
+Sino 
+escribir "el num es menor o igual a 10";
+Finsi
+FinAlgoritmo
