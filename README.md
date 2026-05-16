@@ -1,6 +1,6 @@
 # PRACTICA_GITHUB
 ## Descripción:Repositorio para practica básica de Github 
-##Autor : David Moreno
+## Autor : David Moreno
 ## Carrera: INGENIERÍA EN SISTEMAS 
 ## Año : 2026 
 ## Año de carrera: 1ro
