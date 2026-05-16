@@ -7,3 +7,7 @@
 ## Nombre de la clase : Control de Versiones
 ## Objetivos : Aprender a como usar GitHub , Ramas y  Pull request 
  
+</> Mardonw 
+## Herramientas usadas 
+-Git mobile
+-GitHub
